@@ -12,6 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
-/Houseclub/release
-/Houseclub/build
+/Forkhouse/release
+/Forkhouse/build
 *.jks
